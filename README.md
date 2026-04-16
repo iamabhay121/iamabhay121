@@ -1,29 +1,30 @@
-Full Stack Developer (3.5+ YOE) specializing in React, Next.js, Node.js with hands-on Generative AI and blockchain exploration.
+🔨 Full Stack Developer | React • Next.js • Node.js • GenAI • Blockchain
 
-**Production Impact:**
-• Led Angular v8 → Next.js migration: 60% SEO improvement, 45% faster page loads
-• Migrated Firebase → MongoDB: 40% faster queries, 70-80% cost reduction  
-• Built Google Drive API + LinkedIn OAuth/2FA integrations for enterprise clients
-• Refactored legacy codebases to scalable Node.js microservices
+**3.5+ years building production web apps** with measurable impact:
+- Angular → Next.js migration: **60% SEO boost, 45% faster loads**
+- Firebase → MongoDB: **40% faster queries, 70-80% cost savings** 
+- Google Drive API, LinkedIn OAuth/2FA integrations
 
-**Currently Building:**
-Hedera Token Dashboard — React app for token creation, transfers, account association
-[Live Demo](https://hedera-dashboard-zeta.vercel.app/) | [GitHub](https://github.com/iamabhay121/hedera-dashboard)
+**Currently exploring GenAI + Blockchain:**
+- 🧠 Generative AI: RAG, LangChain, MCP, Agentic AI, Vector DB
+- ⛓️ Hedera Token Dashboard → [Live Demo](https://hedera-dashboard-zeta.vercel.app/)
 
-**Tech Stack:**
-React • Next.js (SSR) • TypeScript • Node.js • Express • MongoDB • GraphQL • TanStack Query
-Tailwind CSS • Chakra UI • Figma • Postman • Vercel • Microservices
+**Tech Stack**
+Frontend: React, Next.js, TypeScript, Tailwind, Chakra UI, Figma
+Backend: Node.js, Express, GraphQL, Microservices, REST APIs
+Data: MongoDB, Vector DB
+AI: LangChain, RAG, MCP, Prompt Engineering (Python)
+Blockchain: Hedera, Solidity basics, Token Creation/Transfer
+Tools: Git, Postman, TanStack Query, Vercel
 
-**Emerging Tech (Hands-on Learning):**
-🧠 Generative AI: RAG, LangChain, LangGraph, MCP, Agentic AI, Vector DB, Python
-⛓️ Blockchain: Hedera Hashgraph, Solidity basics, token standards, wallet integration
 
-**What I Bring:**
-- Enterprise delivery under tight deadlines (U.S. client projects)
-- Performance optimization obsession (Core Web Vitals, SEO, load times)
-- API integration expertise (OAuth, 3rd party services, enterprise security)
-- Rapid learning (React → Full Stack → GenAI/Blockchain in 18 months)
+**📈 Key Projects**
+[![Hedera Dashboard](https://img.shields.io/badge/Hedera_Token_Dashboard-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://hedera-dashboard-zeta.vercel.app/)
+[![TinyView Migration](https://img.shields.io/badge/TinyView_Migration-00D4AA?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/iamabhay121/tinyview-migration)
 
-Currently seeking Frontend, MERN Stack, or Full Stack roles where I can combine modern web development with AI/blockchain innovation.
+**⚡ Recently:**
+- Built microservices architecture from function-based Firebase
+- Enterprise API integrations (Google Drive, LinkedIn 2FA)
+- Learning GenAI agent workflows with LangChain + Vector DB
 
-📧 Open to opportunities: iamabhayagarwal121@gmail.com
+📫 **Open to collaboration** on AI-powered web apps and blockchain projects
